@@ -1,0 +1,4 @@
+/* Custom styles (small) to complement Tailwind */
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+#studentsList li { border-left: 3px solid transparent; padding-left: 8px; }
+#studentsList li:hover { background-color: #f8fafc; }
